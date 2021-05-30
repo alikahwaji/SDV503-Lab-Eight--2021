@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Lab Seven 👋</h1>
+<h1 align="center">Welcome to Lab Nine 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/alikahwaji/Lab-template#readme" target="_blank">
@@ -48,11 +48,13 @@ Check the :white_check_mark: Todos & :x: Not Todos
 |:four:|Do NOT Share the lab repo :closed_lock_with_key:|:heavy_multiplication_x:|
 |:five:|Do NOT re-use this repo for other coding activities :recycle:|:heavy_multiplication_x:|
 
-## :page_facing_up: Lab Seven Description
+## :page_facing_up: Lab Nine Description
 
-:arrow_right: List all Data types in C# provide your own examples and primitive and non primitive Data types in C#. (Use your journal MD file)
+:arrow_right: Compare between Arrays in C# and JavaScript, provide the comparison in Markdown table with examples of Arrays in C# & JavaScript. (Use your journal MD file)
 
-:arrow_right: Compare JavaSCript Data Types and C# Data Types with examples. (Use your journal MD file)
+:arrow_right: Explain the advantages and disadvantages of Dictionaries in C#. (Use your journal MD file)
+
+:arrow_right: Explain Dictionaries in JavaScript, research about this, and provide your references (Use your journal MD file)
 
 ## :books: Resources 
 
