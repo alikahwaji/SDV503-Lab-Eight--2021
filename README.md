@@ -54,7 +54,7 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 :arrow_right: Explain the advantages and disadvantages of Dictionaries in C#. (Use your journal MD file)
 
-:arrow_right: Explain Dictionaries in JavaScript, research about this, and provide your references (Use your journal MD file)
+:arrow_right: Explain Dictionaries in JavaScript, research about this topic, and provide your references (Use your journal MD file)
 
 ## :books: Resources 
 
